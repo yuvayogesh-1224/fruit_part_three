@@ -1,6 +1,6 @@
-# fruit_coloring_book
+# fruit_part_three
 
-A new Flutter project.
+A Flutter Fruit Colouring Book application.
 
 ## Getting Started
 
